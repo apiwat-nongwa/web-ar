@@ -1,0 +1,7 @@
+{
+  "name": "web-ar",
+  "version": "1.0.0",
+  "description": "poc AR web",
+  "main": "index.js",
+  "license": "MIT"
+}
